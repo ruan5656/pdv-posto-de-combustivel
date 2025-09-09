@@ -1,0 +1,28 @@
+#itens de Backlog
+
+1 - Novo Produto: Funcionalidades que ainda não existem no produto;
+2 - Melhorias: Alterações em recursos existentes para aprimorar a experiência de usuário;
+3 - Bugs: Defeitos e falhas ;
+4 - Dívida Técnica :Trabalho necessário para refatorar o código;
+5 - Mudanças de Design e Problemas de UX: Alteraçoes necessárias melhorar a apârencia de usuário;
+6 - Aquisição de conhecimento (Spikes): Investigação ou protótipo para mitigar duvídas;
+7 - Solicitações de Clientes e Partes: Demandas vindas de usúarios e outras pessoas envolvidas no projeto;
+
+1.1 - Requisitos Não Funcionais:
+    1.1.1 - Descritivo Técnico:
+            #Backend desenvolvida em Java versão 15;
+            #Maven para gestão de dependência do projeto;
+            #Swing para interface com o usuário;
+            #Versionamento do projeto: Git/GitHub.
+
+1.2 - Requisitos Funcionais:
+    1.2.1 - Cadastro do Frentista:
+         #Nome;
+         #CPF;
+         #Endereço;
+         #Telefone;
+    1.2.2 - Cadastro de Produto:
+         #Nome Produto;
+         #Referência de fornecedor;
+         #Valor do produto;
+    1.2.3 -
